@@ -40,7 +40,7 @@
     "webpack": "^3.5.6"
   },
   "scripts": {
-    "polyfill": "webpack lib/eventsource-polyfill.js example/eventsource-polyfill.js",
+    "polyfill": "webpack lib/eventsource-polyfill.js example/eventsource-polyfill.js"
   },
   "engines": {
     "node": ">=12.0.0"
